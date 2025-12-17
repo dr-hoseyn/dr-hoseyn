@@ -1,7 +1,6 @@
-- 👋 Hi, I’m hossein hatami
+- 👋 Hi, I’m hossein
 - 👀 I’m interested in  Programming
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on goole
 - 📫 How to reach me dr.hoseeyn@gmail.com
 
 <!---
